@@ -1,4 +1,4 @@
-# Parsing project
+# Navigation parsing app
 
 This is a small python 3.x application that allows parse GPS or Glonass navigation data from downloadable .nav file
 
