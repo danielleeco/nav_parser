@@ -2,7 +2,7 @@
 
 This is a small python 3.x application that allows parse GPS or Glonass navigation data from downloadable .nav file
 
-This project requires installing dependencies with a `requirements.txt`(https://github.com/danielleeco/nav_parser/blob/master/requirements.txt) file.
+This project requires installing dependencies with a [`requirements.txt`](requirements.txt) file.
 
 ```
 pip install -r requirements.txt
