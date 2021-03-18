@@ -33,3 +33,11 @@ streamlit run parser.py
 
 
 ![image](https://user-images.githubusercontent.com/27200843/111652803-6df07580-8818-11eb-8a2a-9eaad7a9c560.png)
+
+Be aware! There's some data which can not be chosen by a range
+
+![image](https://user-images.githubusercontent.com/27200843/111653192-c45db400-8818-11eb-8b63-059a077e3353.png)
+
+And some data which need to change the range to be displayed
+
+![image](https://user-images.githubusercontent.com/27200843/111653335-e35c4600-8818-11eb-8a63-3790f754b3b8.png)
