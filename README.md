@@ -8,7 +8,7 @@ This project requires installing dependencies with a `requirements.txt` file.
 pip install -r requirements.txt
 ```
 
-To run application please use to code below in your terminal:
+To run application please use the code below in your terminal:
 
 ```
 streamlit run parser.py
